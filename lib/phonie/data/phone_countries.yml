@@ -1142,7 +1142,7 @@
   :name: Romania
   :area_code: 2|3|7|8
   :local_number_format: \d{7,9}
-  :number_format: \d{9}
+  :number_format: \d{8,9}
   :international_dialing_prefix: '00'
 '351':
   :country_code: '351'
